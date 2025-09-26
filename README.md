@@ -1,5 +1,5 @@
 # 👋🏻 Hi, I'm Connor
-👨🏻‍💻 Sotware Engineer @ Made Tech
+👨🏻‍💻 Software Engineer @ Made Tech
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
